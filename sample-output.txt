@@ -1,0 +1,232 @@
+----- RAILWAY RESERVATION SYSTEM -----
+
+ MAIN MENU
+1.Admin mode
+2.User mode
+3.Exit
+Enter your choice
+1
+Enter the Password: abc
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
+1
+Enter the details as follows
+Train no:1
+Train name:Boarding point:LADAKH
+Destination pt:KARGIL
+No of seats in first class & fare per ticket:100 200
+No of seats in second class & fare per ticket:50 400
+Date of travel:29 12 2019
+Do you want to add one more record?
+y-for Yes
+n-for No
+n
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
+3
+1               LADAKH  KARGIL  100     200     50      400     29      12-2019
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
+4
+---WELCOME TO THE USER MANAGEMENT MENU---
+1. Create id database
+2. Add details
+3. Display details
+4. Return to the main menu
+Enter your choice:1
+Enter your id:1
+Enter the Password: 1
+Do you want to add one more record
+y-Yes
+n-No
+n
+1. Create id database
+2. Add details
+3. Display details
+4. Return to the main menu
+Enter your choice:3
+Id:1
+Password:1
+1. Create id database
+2. Add details
+3. Display details
+4. Return to the main menu
+Enter your choice:4
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
+6
+
+ MAIN MENU
+1.Admin mode
+2.User mode
+3.Exit
+Enter your choice
+2
+*****************************************************
+***********WELCOME TO THE USER MENU**
+****************************************************
+Enter your ID1
+Enter your Password1
+1.Reserve
+2.Cancell
+3.Enquiry
+4.Return to the main menu
+Enter your choice:1
+1.Reserve
+2.Return to the main menu
+Enter your choice:1
+
+Enter the details as follows
+Train no:1
+Train name:Boarding point:1
+Destination pt:1
+No of seats required:1
+Passenger name:EDSON
+Passenger age:24
+Enter the class f-first class s-second class:f
+Date of travel:1
+1
+1
+Enter the concession category
+1.Military
+2.Senior citizen
+3.Children below 5 yrs
+4.None
+2
+‡‡‡‡END OF GETTING DETAILS‡‡‡‡
+Concession category:SENIOR CITIZEN
+Pnr no:13291
+Train no:1
+Train name:
+Boarding point:1
+Destination pt:1
+No of seats reserved:1Passenger name:EDSON
+Passenger age:24
+Your class:f
+
+Date of reservation:1-1-1
+Your concession category:2
+You must pay:120
+***********************************************
+‡‡‡END OF RESERVATION‡‡‡‡‡..
+***********************************************
+˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘˘
+˘˘˘˘˚Your ticket is reserved˘˘˘˚
+˘˘˘˘˘˚End of reservation menu˘˘-
+‡‡‡‡Wrong train no‡‡‡‡‡‡‡.
+‡‡Enter the train no from the data base‡..
+1.Reserve
+2.Return to the main menu
+Enter your choice:2
+
+1.Reserve
+2.Cancell
+3.Enquiry
+4.Return to the main menu
+Enter your choice:3
+1               LADAKH  KARGIL  99      200     50      400     29      12-2019
+1.Reserve
+2.Cancell
+3.Enquiry
+4.Return to the main menu
+Enter your choice:4
+
+ MAIN MENU
+1.Admin mode
+2.User mode
+3.Exit
+Enter your choice
+1
+Enter the Password: abc
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
+5
+Displaying Passenger DetailsPnr no:12507
+Train no:1
+Train name:
+Boarding point:1
+Destination pt:1
+No of seats reserved:1Passenger name:1
+Passenger age:1
+Your class:f
+
+Date of reservation:1-1-1
+Your concession category:1
+You must pay:0
+***********************************************
+‡‡‡END OF RESERVATION‡‡‡‡‡..
+***********************************************
+Pnr no:12857
+Train no:1
+Train name:
+Boarding point:1
+Destination pt:1
+No of seats reserved:1Passenger name:1
+Passenger age:1
+Your class:f
+
+Date of reservation:1-1-1
+Your concession category:1
+You must pay:0
+***********************************************
+‡‡‡END OF RESERVATION‡‡‡‡‡..
+***********************************************
+Pnr no:13291
+Train no:1
+Train name:
+Boarding point:1
+Destination pt:1
+No of seats reserved:1Passenger name:EDSON
+Passenger age:24
+Your class:f
+
+Date of reservation:1-1-1
+Your concession category:2
+You must pay:120
+***********************************************
+‡‡‡END OF RESERVATION‡‡‡‡‡..
+***********************************************
+
+ --- ADMINISTRATOR MENU ---
+1. Create detail Database
+2. Add details
+3. Display details
+4. User Management
+5. Diplay Passenger details
+6. Return to Main Menu
+Enter your choice
